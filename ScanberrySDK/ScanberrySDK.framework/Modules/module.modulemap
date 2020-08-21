@@ -1,0 +1,11 @@
+framework module ScanberrySDK {
+  umbrella header "ScanberrySDK.h"
+
+  export *
+  module * { export * }
+}
+
+module ScanberrySDK.Swift {
+    header "ScanberrySDK-Swift.h"
+    requires objc
+}
