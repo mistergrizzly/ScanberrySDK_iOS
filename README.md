@@ -1,5 +1,10 @@
 # Scanberry SDK iOS documentation
 
+# Requirements:
+- Xcode 11+
+- macOS 10.15+
+- iOS 10+
+
 ## Getting started
 
 At the moment Scanberry SDK - iOS version, can be imported and run for real device architecture only. Please drag and drop ScanberrySDK.framework to your project and don't forget to specify for the Frameworks, Libraries and Embedded Content:
