@@ -4,6 +4,7 @@
 - Xcode 11+
 - macOS 10.15+
 - iOS 10+
+- Swift 5+
 
 ## Getting started
 
